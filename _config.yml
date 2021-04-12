@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Michael Gray's Blog and Projects
+description: A place to catalog my transition into the Data Science field
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://graymichaelj.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Michael Gray, PhD
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: I spent almost a decade conducting human neuroscience research involving EEG, eye-tracking, and behavioral measures. Now, I have decided to leave academia behind and transition into the Data Science industry. This journey begins with me starting a MS program in Data Science and Business Analytics this Fall.
 user_title: Cognitive Neuroscientist and Aspiring Data Scientist
 email: graymichaelj@outlook.com
 #twitter_username: 
